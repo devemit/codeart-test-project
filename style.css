@@ -22,7 +22,7 @@
 }
 .main_img {
   position: absolute;
-  max-width: 1920px;
+  width: 1920px;
   height: 550px;
   left: 0px;
   top: 0px;
